@@ -14,7 +14,7 @@ O front-end é uma interface web desenvolvida com Angular.
 
 ## Como executar o projeto
 
-1. Clone o repositório. `git clone https://github.com/peesousa/API-Rest-Spring-Boot.git`
+1. Clone o repositório. `git clone git@github.com:peesousa/spring-boot-angular-crud.git`
 2. Navegue até `api-spring` e execute `mvn spring-boot:run`.
 3. Em outro terminal, navegue até `api-angular` e execute `ng serve`.
 4. Acesse `http://localhost:4200` no navegador.
