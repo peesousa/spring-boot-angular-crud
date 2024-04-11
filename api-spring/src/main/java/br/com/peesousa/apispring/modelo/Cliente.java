@@ -14,5 +14,5 @@ public class Cliente {
     private Long codigo;
     private String nome;
     private Integer idade;
-    private String ciade;
+    private String cidade;
 }
